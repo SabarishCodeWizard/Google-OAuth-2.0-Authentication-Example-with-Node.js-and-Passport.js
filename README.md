@@ -21,8 +21,8 @@ This is a simple Node.js application that demonstrates Google OAuth 2.0 authenti
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SabarishCodeWizard/google-auth-example.git
-cd google-auth-example
+https://github.com/SabarishCodeWizard/Google-OAuth-2.0-Authentication-Example-with-Node.js-and-Passport.js.git
+cd <folder>
 ```
 
 ### 2. Install dependencies
