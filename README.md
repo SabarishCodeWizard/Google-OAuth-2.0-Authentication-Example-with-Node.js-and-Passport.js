@@ -91,11 +91,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-### Example Screenshot
-
-
-```markdown
-## Example Screenshot
-
-![Google OAuth Example](./path_to_image/image.png)
-```
