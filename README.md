@@ -18,6 +18,8 @@ This is a simple Node.js application that demonstrates Google OAuth 2.0 authenti
 
 ## Getting Started
 
+https://sabarishcodewizard.github.io/Google-OAuth-2.0-Authentication-Example-with-Node.js-and-Passport.js/
+
 ### 1. Clone the repository
 
 ```bash
